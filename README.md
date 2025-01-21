@@ -1,8 +1,6 @@
-# README for Programming Assignment 2
+# CSCI4700 – Data Mining
 
-## CSCI4700 – Data Mining
-
-## Assignment Overview
+## Overview
 
 This README file provides instructions and explanations for completing the programming assignment for **CSCI4700 – Data Mining**. The assignment focuses on analyzing datasets and implementing various data mining techniques. The datasets and tasks are described below.
 
