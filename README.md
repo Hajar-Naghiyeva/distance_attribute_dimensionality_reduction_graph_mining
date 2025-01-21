@@ -1,4 +1,4 @@
-# README for Programming Assignment 3
+# README for Programming Assignment 2
 
 ## CSCI4700 – Data Mining
 
